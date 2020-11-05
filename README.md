@@ -12,7 +12,7 @@
 
 ### [E. Метод опорных векторов](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/e.py)
 
-### [F. Наивный байесовский классификатор](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/f.py)
+### [F. Наивный Байесовский классификатор](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/f.py)
 
 ### [G. Дерево принятия решений](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/g.py)
 
