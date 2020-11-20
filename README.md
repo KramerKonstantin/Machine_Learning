@@ -16,11 +16,25 @@
 
 ### [G. Дерево принятия решений](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/g.py)
 
-### [H. Логические выражения](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/h.py)
+### [H. Логическое выражение](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/h.py)
 
 ### [I. Матричная функция](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/i.py)
 
 ### [J. Свёрточная сеть](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/j.py)
+
+### [K. LSTM сеть](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/k.py)
+
+### [L. Коэффициент корреляции Пирсона](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/l.py)
+
+### [M. Коэффициент ранговой корреляции Спирмена](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/m.py)
+
+### [N. Расстояния](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/n.py)
+
+### [O. Условная дисперсия](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/o.py)
+
+### [P. Хи-квадрат](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/p.py)
+
+### [Q. Условная энтропия](https://github.com/KramerKonstantin/Machine_Learning/blob/master/codeforces/q.py)
 
 ## [Labs](https://github.com/KramerKonstantin/Machine_Learning/tree/master/labs)
 
